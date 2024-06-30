@@ -1,0 +1,9 @@
+/*
+Desarrollar un procedimiento almacenado que permita consultar las ventas de un
+determinado producto. El procedimiento debe tener como parámetro de entrada el
+código del producto.
+Base de datos: NORTHWIND
+El procedimiento debe tener como resultado la siguiente plantilla:
+CODIGO  |NOMBRE  |NUMERO.|FECHA |PAIS   |PRECIO  |CANTIDAD|IMPORTE
+PRODUCTO|PRODUCTO|PEDIDO |PEDIDO|DESTINO|UNITARIO|        |
+ */

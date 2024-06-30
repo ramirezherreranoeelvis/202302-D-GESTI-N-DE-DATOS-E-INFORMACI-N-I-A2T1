@@ -1,0 +1,54 @@
+IdAlumno,ApeAlumno,NomAlumno,DirAlumno,TelAlumno,EmailAlumno,Clave
+A0001,Donayre Mena,Christian,NULL,NULL,cdonayre@peru.com,123456
+A0002,Ortiz Rodriguez,Freddy,NULL,NULL,fortiz@hotmail.com,123456
+A0003,Silva Mejia,Ruth Ketty,NULL,NULL,ksilva@gmail.com,123456
+A0004,Melendez Noriega,Liliana,NULL,NULL,lmelendez@uni.edu.pe,123456
+A0005,Huerta Leon,Silvia,NULL,NULL,shuerta@peru.com,123456
+A0006,Carranza Fuentes,Maria Elena,NULL,NULL,ecarravza@gmail.com,123456
+A0007,Prado Castro,Gabriela,NULL,NULL,gprado@gmail.com,123456
+A0008,Atuncar Mesias,Juan,NULL,NULL,jatuncar@hotmail.com,123456
+A0009,Aguilar Zavala,Patricia Elena,NULL,NULL,paguilar@yahoo.com,123456
+A0010,Rodriguez Trujillo,Rubén Eduardo,NULL,NULL,rrodriguez@peru.com,123456
+A0011,Canales Ruiz,Gino Leonel,NULL,NULL,gcanales@peru.com,123456
+A0012,Ruiz Quispe,Edgar,NULL,NULL,eruiz@terra.com.pe,123456
+A0013,Panduro Terrazas,Omar,NULL,NULL,opanduro@gmail.com,123456
+A0014,Zita Padilla,Peter Wilmer,NULL,NULL,pzita@gmail.com,123456
+A0015,Ternero Ubillús,Luis,NULL,NULL,lternero@gmail.com,123456
+A0016,Rivera García,Raúl Joel,NULL,NULL,rrivera@peru.com,123456
+A0017,Pomar García,Ana,NULL,NULL,apomar@terra.com.pe,123456
+A0018,Palomares Venegas,Mercedes,NULL,NULL,mpalomares@peru.com,123456
+A0019,Ruiz Venegaz,Luis Alberto,NULL,NULL,lruiz@gmail.com,123456
+A0020,Tejada Bernal,Janet,NULL,NULL,jtejada@uni.edu.pe,123456
+A0021,Sotelo Canales,Juan Carlos,NULL,NULL,jsotelo@peru.com,123456
+A0022,LLosa Montalvan,Karla,NULL,NULL,kllosa@peru.com,123456
+A0023,Galarza Torres,Hugo,NULL,NULL,hgalarza@yahoo.com,123456
+A0024,Valverde Jaramillo,Saul,NULL,NULL,svalverde@hotmail.com,123456
+A0025,Cipriano Avila,Roxana,NULL,NULL,rcipriano@hotmail.com,123456
+A0026,Rodriguez Quispe,Luis Alberto,NULL,NULL,lrodriguez@peru.com,123456
+A0027,Huerta Leon,Marco Antonio,NULL,NULL,mhuerta@gmail.com,123456
+A0028,Ortiz Fuentes,Ana María,NULL,NULL,aortiz@yahoo.es,123456
+A0029,Rivera Jaramillo,Martha,NULL,NULL,mrivera@gmail.com,123456
+A0030,Bustamante Campos,Guino,NULL,NULL,gbustamante@hotmail.com,123456
+A0031,Barreto Rodríguez,Carlos Miguel,NULL,NULL,cbarreto@gmail.com,123456
+A0032,Borja Gutti,José Miguel,NULL,NULL,jborja@uni.edu.pe,123456
+A0033,Espinoza De La Cruz,Ronny Cesar,NULL,NULL,respinoza@hotmail.com,123456
+A0034,Gómez Cáceres,Pedro Pablo,NULL,NULL,pgomez@peru.com,123456
+A0035,Gómez Manzano,José Alfonso,NULL,NULL,jgomez@elcomercio.pe,123456
+A0036,Herrera Farfán,Carlos Alberto,NULL,NULL,cherrera@peru.com,123456
+A0037,Huamanyauri Cuellar,David Roger,NULL,NULL,dhuamanyauri@ipae.pe,123456
+A0038,La Pierre Gutiérrez,Nathalie Aurora,NULL,NULL,nlapierre@telefonica.pe,123456
+A0039,Lema Gutiérrez,Katia,NULL,NULL,klema@ibm.com.pe,123456
+A0040,Leon Castro,Cesar Rómulo,NULL,NULL,cleon@peru.com,123456
+A0041,Manzanal Castro,Antonio Javier,NULL,NULL,amanzanal@gmail.com,123456
+A0042,Morí Pezantes,James Gustavo,NULL,NULL,jmori@elcomercio.pe,123456
+A0043,Murillo Sánchez,Cesar Noe,NULL,NULL,cmurillo@ipae.pe,123456
+A0044,Ramírez Molina,Patricia Roxana,NULL,NULL,pramirez@elcomercio.pe,123456
+A0045,Sakamoto Ysla,David Augusto,NULL,NULL,dsakamoto@peru.com,123456
+A0046,Torres Mejia,Maria Elsa,NULL,NULL,mtorres@elcomercio.pe,123456
+A0047,Ubillus Claudet,Juan Eliécer,NULL,NULL,jubillus.ibm.com.pe,123456
+A0048,Val Del Carpio,Silvia Verónica,NULL,NULL,sval@gmail.com,123456
+A0049,Venturi Díaz,Ismael Martín,NULL,NULL,iventuri@peru.com,123456
+A0050,Vera Pozo,Iván José Luis,NULL,NULL,ivera@hotmail.com,123456
+A0051,Arbieto Chavez,Julio César,NULL,NULL,jarbieto@hotmail.com,123456
+A0052,Ramirez Linares,Max Alberto,NULL,NULL,mramirez@hotmail.com,123456
+A0053,Aquino Chero,Flor de Maria,NULL,NULL,faquino@hotmail.com,123456

@@ -1,0 +1,15 @@
+IdCurso,IdTarifa,NomCurso
+C001,A,SO Windows
+C002,B,Visual Basic .NET - Fundamentos
+C003,C,Visual Basic .NET - Cliente/Servidor
+C004,C,Visual Basic .NET - Web
+C005,B,Java - POO
+C006,C,Java - Cliente/Servidor
+C007,C,Java - Web
+C008,C,Java - Frameworks
+C009,B,PHP - Fundamentos
+C010,C,PHP - POO
+C011,C,PHP - Frameworks
+C012,B,C# - POO
+C013,C,C# - Web Services
+C014,C,Java - Web Services

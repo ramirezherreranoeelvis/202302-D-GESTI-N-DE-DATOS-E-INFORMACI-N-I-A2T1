@@ -1,0 +1,6 @@
+SELECT TOP (1000) [IDCLIENTE]
+      ,[DNI]
+      ,[NOMBRE]
+      ,[DIRECCION]
+      ,[CORREO]
+  FROM [BDJURIDICO].[dbo].[CLIENTE]

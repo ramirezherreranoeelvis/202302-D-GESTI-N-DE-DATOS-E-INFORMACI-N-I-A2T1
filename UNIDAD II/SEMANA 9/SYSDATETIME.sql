@@ -1,0 +1,2 @@
+SELECT SYSDATETIME() AS SysDateTime;
+GO
