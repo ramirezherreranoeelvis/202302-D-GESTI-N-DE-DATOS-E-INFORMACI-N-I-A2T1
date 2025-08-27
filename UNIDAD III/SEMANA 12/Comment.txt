@@ -6,4 +6,4 @@ Base de datos: NORTHWIND
 El procedimiento debe tener como resultado la siguiente plantilla:
 CODIGO  |NOMBRE  |NUMERO.|FECHA |PAIS   |PRECIO  |CANTIDAD|IMPORTE
 PRODUCTO|PRODUCTO|PEDIDO |PEDIDO|DESTINO|UNITARIO|        |
- */
+ */.
